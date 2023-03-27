@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova');
+body {
+  margin: 25px;
+  font-family: Proxima Nova !important
+}
+
+h1 {
+  color: darkslategray !important;
+}
+
+p {
+  font-size: 12pt;
+  color: black;
+}
+canvas {
+  height: 175px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+
+input {
+  font-family: verdana;
+  font-size: 12pt;
+}
+
+#image {
+  width: 20%;
+  height: 20%;
+}
+
+#caption-box
+{
+  border: 1px solid black
+}
+
+div#loading {
+  width: 35px;
+  height: 35px;
+  display: none;
+  background: url(/static/loadingimage.gif) no-repeat;
+  cursor: wait;
+  }
+
+  
