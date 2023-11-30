@@ -1,4 +1,4 @@
-#GramCam: Stylised and personalized caption generation for social media posts
+# GramCam: Stylised and personalized caption generation for social media posts
 
 The code and data for our work are present on google drive due to size and computation constraints in the local environment.
 
